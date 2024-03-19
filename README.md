@@ -9,13 +9,11 @@ This project is a simple maze game implemented in C using the SDL2 library for g
 - gcc compiler
 
 ### Installing SDL2 on Ubuntu
-```bash
-sudo apt-get install libsdl2-dev```
+`sudo apt-get install libsdl2-dev`
 
 ### Running the Game
-```bash
-make
-./maze```
+`make`
+`./maze`
 
 ### Features
 Display a maze with walls and an empty space.

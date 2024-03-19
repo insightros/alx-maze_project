@@ -9,11 +9,8 @@ void loadTextures(char *mapName)
 	if (strcmp(mapName, "map") == 0)
 	{
 		texSrc[0] = IMG_Load("textures/stonewall.png");
-		texSrc[1] = IMG_Load("textures/stonewall.png");
-		texSrc[2] = IMG_Load("textures/stonewall.png");
-		texSrc[3] = IMG_Load("textures/stonewall.png");
-		texSrc[4] = IMG_Load("textures/night.png");
-		texSrc[5] = IMG_Load("textures/grass.png");
+		texSrc[1] = IMG_Load("textures/night.png");
+		texSrc[2] = IMG_Load("textures/grass.png");
 	}
 
 	for (i = 0; i < TEX_COUNT; i++)

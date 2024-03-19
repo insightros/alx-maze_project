@@ -16,16 +16,14 @@ This project is a simple maze game implemented in C using the SDL2 library for g
 `./maze`
 
 ### Features
-Display a maze with walls and an empty space.
-Use raycasting for rendering walls.
-Rotate and move the camera.
-Handle collisions with walls.
-Parse the map from a file.
-Draw the map on the window.
-Add textures to walls, ground, and ceiling.
-Handle multiple events on the same frame.
-Add rain with the ability to start/stop it.
-Additional options like shadows and special lighting.
+- Display a maze with walls and an empty space.
+- Use raycasting for rendering walls.
+- Rotate and move the camera.
+- Handle collisions with walls.
+- Parse the map from a file.
+- Draw the map on the window.
+- Add textures to walls, ground, and ceiling.
+- Handle multiple events on the same frame.
 
 ### Authors
 Insightros
